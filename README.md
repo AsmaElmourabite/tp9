@@ -1,7 +1,7 @@
 # TP-9 : Gestion des Comptes Clients
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
-![Capture d'écran de l'application](images/screenshot.png)
+![Capture d'écran de l'application](https://github.com/AsmaElmourabite/tp9/blob/master/Capture%20d%E2%80%99%C3%A9cran%202025-11-15%20161551.jpg)
 
 ## Description
 
